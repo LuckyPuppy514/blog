@@ -1,5 +1,7 @@
 # 【mpv.net_CM】Windows 平台动漫最强播放器
 
+原文链接：[https://kutt.lckp.top/uVaT3U](https://kutt.lckp.top/uVaT3U)
+
 ## 1. ⬇️ 下载
 
 - 🔗 地址：[https://kutt.lckp.top/Rm4SZN](https://kutt.lckp.top/Rm4SZN)
