@@ -71,6 +71,8 @@
 
 支持网站：[https://kutt.lckp.top/CfCIIc](https://kutt.lckp.top/CfCIIc)
 
+![20230210223220](https://github.lckp.top/LuckyPuppy514/blog/main/mpv.net_CM/图片/20230210223220.jpg)
+
 ## 8. 🤔 常见问题
 
 ### 8.1. 设置为默认应用
