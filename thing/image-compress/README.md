@@ -13,7 +13,6 @@
 - 图压：[https://tuya.xinxiao.tech](https://tuya.xinxiao.tech)
 - Jpg-C：[https://kutt.lckp.top/wj8aul](https://kutt.lckp.top/wj8aul)
 
-
 ## 2. 🧭 对比
 
 | 软件名称 | 速度  | 输出格式  | 多线程 | 压缩率 |

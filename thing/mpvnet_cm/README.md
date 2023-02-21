@@ -128,3 +128,5 @@
 
 - [https://github.com/hooke007/mpv.net_CM](https://github.com/hooke007/mpv.net_CM)
 - [https://github.com/hooke007/MPV_lazy](https://github.com/hooke007/MPV_lazy)
+- [https://github.com/d87/mpv-persist-properties](https://github.com/d87/mpv-persist-properties)
+- [https://github.com/itKelis/MPV-Play-BiliBili-Comments](https://github.com/itKelis/MPV-Play-BiliBili-Comments)
