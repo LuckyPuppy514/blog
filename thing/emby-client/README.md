@@ -1,6 +1,6 @@
 # 【Emby客户端】多平台免费优化版
 
-![20230219210904](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219210904.webp)
+![20230219210904](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219210904.webp)
 
 分享多平台优化版 Emby 客户端，同时为 windows 客户端开启弹幕功能和集成 anime4k 实时提升动漫画质<!--more-->
 
@@ -25,9 +25,9 @@
 <link rel="stylesheet" href="https://danmaku.movie.kg/ext.css"/>
 ```
 
-![20230219212123](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219212123.webp)
+![20230219212123](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219212123.webp)
 
-![20230219212343](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219212343.webp)
+![20230219212343](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219212343.webp)
 
 ## 3. 🌟 集成 anime4k
 
@@ -35,15 +35,15 @@
 
 下载后解压到 `%appdata%` 目录下
 
-![20230219213153](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219213153.webp)
+![20230219213153](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219213153.webp)
 
 播放 1080p 及以下分辨率非 HDR 视频时自动开启
 
-![20230219213311](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219213311.webp)
+![20230219213311](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219213311.webp)
 
 进阶：如需修改模式及启用条件，需要自行修改以下代码
 
-![20230219213641](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219213641.webp)
+![20230219213641](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219213641.webp)
 
 ## 4. 🤔 问题反馈
 

@@ -1,8 +1,8 @@
 # 【qBittorrent】两款简洁美观的UI
 
-![20230220150008](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-20/20230220150008.webp)
+![20230220150008](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-20/20230220150008.webp)
 
-![20230220150431](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-20/20230220150431.webp)
+![20230220150431](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-20/20230220150431.webp)
 
 分享两款简洁美观，适配了手机端，且支持中文的 qBittorrent WebUI<!--more-->
 
@@ -27,7 +27,7 @@
 /config/webui/qb-web-nightly/dist
 ```
 
-![20230219220850](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219220850.webp)
+![20230219220850](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219220850.webp)
 
 ## 3. 🫠 常见问题
 

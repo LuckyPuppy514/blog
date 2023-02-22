@@ -1,6 +1,6 @@
 # 【mpv-lazy】强大的 mpv 懒人版
 
-![20230219195746](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219195746.webp)
+![20230219195746](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219195746.webp)
 
 功能强大的 mpv 懒人版，已集成 anime4k 和多种着色器，以及各种补帧滤镜和脚本，可实时提升动漫画质和帧数<!--more-->
 
@@ -21,7 +21,7 @@
 
 🔥 安装路径 **不要包含中文**，C 盘建议放在当前用户目录下
 
-![20230219201908](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219201908.webp)
+![20230219201908](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219201908.webp)
 
 ## 3. ⚙️ 设置
 
@@ -31,11 +31,11 @@
 
 找到 `d3d11-adapter` 和 `vulkan-device` 所在行，删除 `#` 号，修改显卡名称后保存
 
-![20230219202207](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219202207.webp)
+![20230219202207](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219202207.webp)
 
 显卡名称可在设备管理器中找到
 
-![20230219202352](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219202352.webp)
+![20230219202352](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219202352.webp)
 
 ### 3.2. 性能相关（卡顿可尝试修改）
 
@@ -85,7 +85,7 @@ demuxer-max-bytes = 200MiB
 
 支持网站：[https://kutt.lckp.top/CfCIIc](https://kutt.lckp.top/CfCIIc)
 
-![20230215110805](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-15/20230215110805.webp)
+![20230215110805](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-15/20230215110805.webp)
 
 ## 6. 🤔 问题反馈
 

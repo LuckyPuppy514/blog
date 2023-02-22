@@ -1,6 +1,6 @@
 # 【文章模板】我的博客文章模板
 
-![20230215113854](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-15/20230215113854.webp)
+![20230215113854](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-15/20230215113854.webp)
 
 这是我的博客文章的一个简要模板<!--more-->
 

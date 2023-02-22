@@ -1,6 +1,6 @@
 # 【图片压缩】两款绿色免费的软件
 
-![20230219222322](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-19/20230219222322.webp)
+![20230219222322](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219222322.webp)
 
 分享两款绿色免费，简单易用的图片压缩软件 Jpg-C 和 图压<!--more-->
 
