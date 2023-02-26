@@ -97,9 +97,9 @@
 
 ### 7.2. B站看不到弹幕
 
-点击右下角的字幕图标开启弹幕
+点击左下方的字幕图标开启弹幕
 
-![20230215112551](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-15/20230215112551.webp)
+![20230226101216](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-02-26/20230226101216.webp)
 
 ### 7.3. Anime4K 没有效果
 
@@ -128,5 +128,6 @@
 
 - [https://github.com/hooke007/mpv.net_CM](https://github.com/hooke007/mpv.net_CM)
 - [https://github.com/hooke007/MPV_lazy](https://github.com/hooke007/MPV_lazy)
+- [https://github.com/diana7127/mpv.net-DW](https://github.com/diana7127/mpv.net-DW)
 - [https://github.com/d87/mpv-persist-properties](https://github.com/d87/mpv-persist-properties)
 - [https://github.com/itKelis/MPV-Play-BiliBili-Comments](https://github.com/itKelis/MPV-Play-BiliBili-Comments)
