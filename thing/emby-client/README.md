@@ -45,6 +45,15 @@
 
 ![20230219213641](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219213641.webp)
 
+## 4. 🫠 常见问题
+
+网络无法访问 [ext.js](https://danmaku.movie.kg/ext.js) 和 [ext.css](https://danmaku.movie.kg/ext.css) 导致弹幕无效，可尝试更换下列配置
+
+```html
+<script type="text/javascript" src="https://github.rn.lckp.top/danmaku/ext.js"></script>
+<link rel="stylesheet" href="https://github.rn.lckp.top/danmaku/ext.css"/>
+```
+
 ## 4. 🤔 问题反馈
 
 - [https://kutt.lckp.top/J4wW78](https://kutt.lckp.top/J4wW78)
