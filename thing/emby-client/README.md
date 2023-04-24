@@ -29,7 +29,7 @@
 
 ![20230219212343](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219212343.webp)
 
-## 3. 🌟 集成 anime4k
+## 3. 🌟 集成 Anime4K
 
 - [https://kutt.lckp.top/fu610M](https://kutt.lckp.top/fu610M)
 
@@ -40,6 +40,10 @@
 播放 1080p 及以下分辨率非 HDR 视频时自动开启
 
 ![20230219213311](https://image.lckp.top/LuckyPuppy514/image/raw/main/screenshot/2023/2023-02-19/20230219213311.webp)
+
+如果客户端版本比较新，需要修改下列设置，否则 Anime4K 可能没有效果
+
+![20230424133048](https://image.lckp.top/LuckyPuppy514/image/raw/main/2023/2023-04-24/20230424133048.webp)
 
 进阶：如需修改模式及启用条件，需要自行修改以下代码
 
