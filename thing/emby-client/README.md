@@ -10,7 +10,15 @@
 
 ## 1. ⬇️ 打包下载
 
-- windows & android & tv：[https://kutt.lckp.top/U5ckWY](https://kutt.lckp.top/U5ckWY)
+windows
+
+- 地址：[https://kutt.lckp.top/U5ckWY](https://kutt.lckp.top/U5ckWY)
+- 密码：`aq1v`
+
+android
+
+- 地址：[https://kutt.lckp.top/XSjUMF](https://kutt.lckp.top/XSjUMF)
+- 密码：`bmfc`
 
 🔥 建议有条件的加电报群下载最新版：[Emby 学习小秘
 ](https://t.me/EmbyNoisyX

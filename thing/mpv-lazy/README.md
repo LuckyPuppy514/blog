@@ -13,7 +13,8 @@
 
 ## 1. ⬇️ 下载
 
-- [https://kutt.lckp.top/E3fbwv](https://kutt.lckp.top/E3fbwv)
+- 地址：[https://kutt.lckp.top/E3fbwv](https://kutt.lckp.top/E3fbwv)
+- 密码：`1b8r`
 
 ## 2. 🧭 安装
 
